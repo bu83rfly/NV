@@ -1,26 +1,27 @@
 # Site
-name: "WanderingClub"
-title: "WanderingClub"
-description: "Explore the world through captivating travel experiences and inspiring destinations."
+name: "The Real Hustle Stories"
+title: "The Real Hustle Stories"
+description: "Unleash your potential, find motivation, and embrace success through inspiring real-life hustle stories."
+meta_description: "Discover the extraordinary tales of hustle, motivation, and personal development. Dive into the world of real-life stories that inspire, empower, and provide valuable insights on leadership, mental resilience, and achieving success."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'G-98D8W3TPNW'
-disqus: 'wanderingclub'
-mailchimp-list: 'https://club.us10.list-manage.com/subscribe/post?u=a0366d03098b0d55cb867530c&amp;id=e28cdaf15e&amp;f_id=00aed4e5f0'
+google_analytics: ''
+disqus: ''
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  Tejaa:
-    name: Tejaa
-    display_name: Tejaa
+  NV:
+    name: NV
+    display_name: NV
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: ''
     web: ''
     twitter: https://www.instagram.com/thewand3ringclub/
-    description: "A passionate travel enthusiast and blogger with a deep love for exploring new destinations and immersing in diverse cultures."
+    description: "Passionate author empowering growth through personality development, motivation, leadership, mental health, humor, emotions, and product management."
   john:
     name: John
     display_name: John    
