@@ -11,7 +11,7 @@ meta-description: "Step out of the ordinary and into the extraordinary with thes
 
 Are you tired of the same old hotel experience? Looking for accommodations that offer a truly unique and memorable stay? Look no further! We've compiled a list of 10 quirky places to stay that will blow your mind. From unconventional treehouses to breathtaking underwater hotels, these accommodations redefine the meaning of "out-of-the-box." Get ready to embark on a one-of-a-kind adventure!
 
-# 1. Treehotel - Harads, Sweden
+## 1. Treehotel - Harads, Sweden
 
 Nestled among the tall trees of a Swedish forest, Treehotel offers a collection of stunning treehouses designed by renowned architects. Stay in a UFO-shaped room, a mirrored cube, or a bird's nest perched high above the ground. Each treehouse offers breathtaking views and a chance to reconnect with nature.
 
