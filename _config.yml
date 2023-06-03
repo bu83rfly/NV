@@ -6,9 +6,9 @@ meta_description: "Discover the extraordinary tales of hustle, motivation, and p
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'G-R1LNBF6VRL'
+google_analytics: 'G-EV8N3CJ5XJ'
 disqus: 'therealhustlestories'
-mailchimp-list: ''
+mailchimp-list: 'https://nitikaverma.us11.list-manage.com/subscribe/post?u=28add66b1106329586865c5c9&amp;id=76192cf873&amp;f_id=0081bae0f0'
 include: ["_pages"]
 permalink: /:title/
 
