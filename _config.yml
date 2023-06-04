@@ -22,16 +22,7 @@ authors:
     web: ''
     twitter: https://www.instagram.com/the_real_hustle_stories/
     description: "Passionate author empowering growth through personality development, motivation, leadership, mental health, humor, emotions, and product management."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+  
 # Plugins
 plugins:
   - jekyll-paginate
