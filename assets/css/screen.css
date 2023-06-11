@@ -294,7 +294,7 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
-    color: green;
+    color: #a638d8;
 }
 
 .mediumnavigation .navbar-brand {
@@ -328,8 +328,9 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-    font-weight: 700;
+    font-weight: 500;
     margin-bottom: 1rem;
+    color: #a638d8
 }
 
 .footer {
