@@ -7,6 +7,8 @@ tags: [weekend, rest, recreation, leisure, humor, joy]
 image: assets/images/embrace-the-weekend.jpg
 description: "Discover the importance of weekends and how to make the most of your leisure time. Explore the power of rest and recreation, infuse your weekends with humor and joy, and embrace personalized routines that bring fulfillment and happiness."
 meta-description: "Discover the importance of weekends and how to make the most of your leisure time. Explore the power of rest and recreation, infuse your weekends with humor and joy, and embrace personalized routines that bring fulfillment and happiness."
+featured: true
+hidden: true
 ---
 
 # Introduction
