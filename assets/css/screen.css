@@ -11,6 +11,10 @@ License: https://www.wowthemes.net/freebies-license/
     padding: 1rem 0rem;
 }
 
+.text-dark {
+    color: #7F00FF!important;
+}
+
 a {
     color: #00ab6b;
     transition: all 0.2s;
