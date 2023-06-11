@@ -10,6 +10,9 @@ License: https://www.wowthemes.net/freebies-license/
 .mainheading {
     padding: 1rem 0rem;
 }
+.mainheading h1.sitetitle {
+    color: #7F00FF!important;
+}
 
 .text-dark {
     color: #7F00FF!important;

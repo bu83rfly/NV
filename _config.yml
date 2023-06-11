@@ -1,6 +1,6 @@
 # Site
-name: "The Real Hustle Stories"
-title: "The Real Hustle Stories"
+name: "Nitika Verma"
+title: "Nitika Verma"
 description: "Unleash your potential, find motivation, and embrace success through inspiring real-life hustle stories."
 meta_description: "Discover the extraordinary tales of hustle, motivation, and personal development. Dive into the world of real-life stories that inspire, empower, and provide valuable insights on leadership, mental resilience, and achieving success."
 logo: 'assets/images/logo.png'
@@ -15,8 +15,8 @@ permalink: /:title/
 # Authors
 authors:
   NV:
-    name: NV
-    display_name: NV
+    name: Nitika Verma
+    display_name: Nitika Verma
     gravatar: 0998f2e9bdf98b63fb0d300e1b1ecb73f7f7e77ebf358ed533b7f2a74fc345fc
     email: ''
     web: ''
