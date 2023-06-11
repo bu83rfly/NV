@@ -12,17 +12,17 @@ License: https://www.wowthemes.net/freebies-license/
     font-weight: 600;
     
 }
-.mainheading h1.sitetitle {
-    font-family: 'Helvetica Neue' !important;
-}
+
+.mainheading 
+
 
 a {
-    color: #a638d8;
+    color: #541d6d;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #a638d8;
+    color: #541d6d;
     text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ pre {
 }
 
 .form-control{
-    border-color: #a638d8 !important;
+    border-color: #541d6d !important;
     
 }
 
@@ -91,6 +91,7 @@ section.recent-posts {
     display: inline-block;
     padding-bottom: 20px;
     margin-bottom: -1px;
+    color: #541d6d;
 }
 
 .article-post ol,
@@ -163,7 +164,7 @@ section.recent-posts {
 }
 
 .text-dark {
-    color: #a638d8 !important;
+    color: #541d6d !important;
 }
 
 .listfeaturedtag h4.card-text,
@@ -294,7 +295,7 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
-    color: #a638d8;
+    color: #541d6d;
 }
 
 .mediumnavigation .navbar-brand {
@@ -325,12 +326,13 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: Righteous;
+    color: #541d6d;
 }
 
 .mainheading h1.posttitle {
     font-weight: 500;
     margin-bottom: 1rem;
-    color: #a638d8
+    color: #541d6d
 }
 
 .footer {
@@ -357,7 +359,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #a638d8;
+    border-left: 4px solid #541d6d;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -545,8 +547,8 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #a638d8;
-    color: #a638d8;
+    border-color: #541d6d;
+    color: #541d6d;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
@@ -555,8 +557,8 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-    background-color: #a638d8;
-    border-color: #a638d8;
+    background-color: #541d6d;
+    border-color: #541d6d;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     border-radius: 30px;
@@ -601,8 +603,8 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #a638d8;
-    border: 1px solid #a638d8;
+    background-color: #541d6d;
+    border: 1px solid #541d6d;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
@@ -818,7 +820,7 @@ iframe {
 
 .jumbotron.fortags a {
     padding: 5px 10px 7px;
-    background: #a638d8;
+    background: #541d6d;
     border-radius: 30px;
     color: #fff;
     font-weight: 500;
