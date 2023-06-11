@@ -7,6 +7,9 @@ tags: [goal setting, personal growth, success]
 image: assets/images/effective-goal-setting.jpg
 description: "Discover the art of effective goal setting and learn how to turn your dreams into reality. Explore practical strategies, principles, and techniques to achieve your goals and experience personal growth and fulfillment."
 meta-description: "Discover the art of effective goal setting and learn how to turn your dreams into reality. Explore practical strategies, principles, and techniques to achieve your goals and experience personal growth and fulfillment."
+
+featured: true
+hidden: false
 ---
 
 Introduction:

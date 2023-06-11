@@ -9,18 +9,20 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .mainheading {
     padding: 1rem 0rem;
+    font-weight: 600;
+    
 }
 .mainheading h1.sitetitle {
     font-family: 'Helvetica Neue' !important;
 }
 
 a {
-    color: #00ab6b;
+    color: #a638d8;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #a638d8;
     text-decoration: none;
 }
 
@@ -45,6 +47,17 @@ pre {
     background: rgba(255, 255, 255, .97);
     box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
     transition: top 0.2s ease-in-out;
+}
+
+.nav-link
+{
+    color: #a638d8 !important;
+    font-weight: 700;
+}
+
+.form-control{
+    border-color: #a638d8 !important;
+    
 }
 
 .main-content {
@@ -148,6 +161,10 @@ section.recent-posts {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
+}
+
+.text-dark {
+    color: #a638d8 !important;
 }
 
 .listfeaturedtag h4.card-text,
@@ -340,7 +357,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #a638d8;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -528,8 +545,8 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
+    border-color: #a638d8;
+    color: #a638d8;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
@@ -538,8 +555,8 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-    background-color: #1C9963;
-    border-color: #1C9963;
+    background-color: #a638d8;
+    border-color: #a638d8;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     border-radius: 30px;
@@ -584,8 +601,8 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #1C9963;
-    border: 1px solid #1C9963;
+    background-color: #a638d8;
+    border: 1px solid #a638d8;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
@@ -801,7 +818,7 @@ iframe {
 
 .jumbotron.fortags a {
     padding: 5px 10px 7px;
-    background: #222;
+    background: #a638d8;
     border-radius: 30px;
     color: #fff;
     font-weight: 500;
