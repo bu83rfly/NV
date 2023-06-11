@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embrace the Weekend: Unleash the Power of Rest and Recreation"
+title: "Weekend-Power of Rest and Recreation"
 author: NV
 categories: [Lifestyle, Personal Development]
 tags: [weekend, rest, recreation, leisure, humor, joy]
