@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Welcome to The Real Hustle Stories!
+## Welcome to The Hustle Chronicles!
 
 My name is Nitika Verma, and I'm the author and creator of this blog. Here, I share insights and stories on various topics such as personality development, motivation, leadership, mental health, humor, user emotions, and product management. I believe in the power of personal growth and continuous learning, and this blog is my way of sharing valuable experiences and knowledge to help you on your own journey of self-improvement.
 
@@ -21,7 +21,7 @@ You can connect with me on the following platforms:
 
 Feel free to reach out to me via email at [info@nitikaverma.co](mailto:info@nitikaverma.co) for any inquiries, collaborations, or simply to say hello.
 
-Thank you for visiting The Real Hustle Stories. I hope you find value in the content shared here and that it helps you in your personal and professional growth.
+Thank you for visiting The Hustle Chronicles. I hope you find value in the content shared here and that it helps you in your personal and professional growth.
 
 Happy reading and stay motivated!
 
