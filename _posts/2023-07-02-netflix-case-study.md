@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Concepts for Improvements: Netflix Reels Feature"
-author: [Nitika Verma]
+title: "A Detailed Case Study on Netflix"
+author: NV
 categories: [Netflix, Product Management, User Experience]
 tags: [Netflix, Product Management, User Experience, Marketing, Case Studies]
 image: assets/images/netflix-reels.jpg
 description: "Explore the potential concepts for improving user engagement and content discovery on Netflix, including the introduction of a new Reels feature. Learn how this feature can enhance the user experience and contribute to the ongoing success of the streaming platform."
-meta-description: "Discover the profound impact of emotional intelligence in leadership and learn practical strategies to inspire and empower others. Explore the key components of emotional intelligence and how they contribute to effective leadership in today's complex world."
+meta-description: "Discover how Netflix, the American subscription video-on-demand streaming service, aims to become the best global entertainment distribution platform. Explore their vision, mission, target audience, competitive analysis, user experience evaluation, and concepts for improvements, including the introduction of the new Reels Feature. Join Nitika Verma, a proud Product Manager and Voice of Customer, in exploring how Netflix continues to enhance content discovery, user interface, and engagement to provide a seamless streaming experience for a diverse audience."
 
 
 ---
