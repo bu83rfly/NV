@@ -7,18 +7,14 @@ tags: [Netflix, Product Management, User Experience, Marketing, Case Studies]
 image: assets/images/netflix-reels.jpg
 description: "Explore the potential concepts for improving user engagement and content discovery on Netflix, including the introduction of a new Reels feature. Learn how this feature can enhance the user experience and contribute to the ongoing success of the streaming platform."
 meta-description: "Discover how Netflix, the American subscription video-on-demand streaming service, aims to become the best global entertainment distribution platform. Explore their vision, mission, target audience, competitive analysis, user experience evaluation, and concepts for improvements, including the introduction of the new Reels Feature. Join Nitika Verma, a proud Product Manager and Voice of Customer, in exploring how Netflix continues to enhance content discovery, user interface, and engagement to provide a seamless streaming experience for a diverse audience."
+toc: true
+featured: true
+hidden: true
 
 
 ---
 
-## Table of Contents
-- [What is the product?](#what-is-the-product)
-- [What is the vision and mission of the product?](#vision-and-mission)
-- [Who is the target audience?](#target-audience)
-- [Competitive Analysis](#competitive-analysis)
-- [In what manner do they use the product?](#product-usage)
-- [Evaluating the user experience throughout their journey.](#user-experience-evaluation)
-- [Concepts for improvements.](#improvement-concepts)
+
 
 ## What is the product?
 > Netflix is an American subscription video-on-demand over-the-top streaming service that offers a wide range of TV shows, movies, documentaries, and original content across various genres and languages.
