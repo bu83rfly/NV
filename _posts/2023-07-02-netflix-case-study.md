@@ -8,8 +8,6 @@ image: assets/images/netflix-reels.jpg
 description: "Explore the potential concepts for improving user engagement and content discovery on Netflix, including the introduction of a new Reels feature. Learn how this feature can enhance the user experience and contribute to the ongoing success of the streaming platform."
 meta-description: "Discover how Netflix, the American subscription video-on-demand streaming service, aims to become the best global entertainment distribution platform. Explore their vision, mission, target audience, competitive analysis, user experience evaluation, and concepts for improvements, including the introduction of the new Reels Feature. Join Nitika Verma, a proud Product Manager and Voice of Customer, in exploring how Netflix continues to enhance content discovery, user interface, and engagement to provide a seamless streaming experience for a diverse audience."
 toc: true
-featured: true
-hidden: true
 
 
 ---
